@@ -1,3 +1,47 @@
-@font-face {
+/*@font-face {*/
+/*    font-family: Lato;*/
+/*    src: url("Lato/Lato-Black.ttf");*/
+/*    src: url("Lato/Lato-BlackItalic.ttf");*/
+/*    src: url("Lato/Lato-Bold.ttf");*/
+/*    src: url("Lato/Lato-BoldItalic.ttf");*/
+/*    src: url("Lato/Lato-Italic.ttf");*/
+/*    src: url("Lato/Lato-Light.ttf");*/
+/*    src: url("Lato/Lato-LightItalic.ttf");*/
+/*    src: url("Lato/Lato-Regular.ttf");*/
+/*    src: url("Lato/Lato-Thin.ttf");*/
+/*    src: url("Lato/Lato-ThinItalic.ttf");*/
+/*}*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
+.lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.montserrat {
+                 font-family: "Montserrat", sans-serif;
+                 font-optical-sizing: auto;
+                 font-weight: 700;
+                 font-style: normal;
+             }
+.nunito-sans {
+                  font-family: "Nunito Sans", sans-serif;
+                  font-optical-sizing: auto;
+                  font-weight: 600;
+                  font-style: normal;
+                  font-variation-settings:
+                          "wdth" 100,
+                          "YTLC" 500;
+              }
