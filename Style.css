@@ -440,7 +440,7 @@ body{
 }
 .five-section{
     width: 100vw;
-    height: 80vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -452,7 +452,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 150px;
+    margin-bottom: 80px;
 }
 .footer-1>h1{
     color: #FFF;
