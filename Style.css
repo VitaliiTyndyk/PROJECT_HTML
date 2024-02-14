@@ -399,8 +399,8 @@ body{
     width: 100vw;
     height: 100vh;
     display: flex;
-    justify-content: space-around;
-    /*align-items: flex-start;*/
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 .four-section-pictures{
@@ -409,13 +409,15 @@ body{
     display: flex;
     justify-content: space-between;
 }
-.four-section>h1{
+.four-section-h1{
+    width: 80%;
+}
+.four-section-h1>h1{
     color: #FFF;
     font-size: 58px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    margin-right: 720px;
     margin-top: 100px;
     margin-bottom: 0;
 }
@@ -441,7 +443,7 @@ body{
     height: 80vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
 }
 .footer-1{
