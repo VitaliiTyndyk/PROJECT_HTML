@@ -187,14 +187,14 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 200px;
+    /*margin-top: 150px;*/
 }
 .two-section>img{
-    width: 53%;
+    width: 83%;
     margin-top: 50px;
 }
 .text-block{
-    width: 53%;
+    width: 83%;
     display: flex;
 }
 .text-block-0{
@@ -225,6 +225,7 @@ body{
     align-items: center;
     /*flex-wrap: wrap;*/
     flex-direction: column;
+    /*margin-top: 100px;*/
 }
 .first-three-blocks{
     width: 83%;
@@ -444,7 +445,7 @@ body{
 }
 .five-section{
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -456,7 +457,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 80px;
+    /*margin-bottom: 80px;*/
 }
 .footer-1>h1{
     color: #FFF;
