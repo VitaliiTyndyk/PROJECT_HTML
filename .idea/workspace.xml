@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2948d7a6-408a-4eb7-ae7b-f057cddef947" name="Changes" comment="add changes to Style.css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,10 @@
       <workItem from="1707820775036" duration="32827000" />
       <workItem from="1707862347551" duration="223000" />
       <workItem from="1707865178638" duration="3070000" />
-      <workItem from="1707914403138" duration="10336000" />
+      <workItem from="1707914403138" duration="11623000" />
+      <workItem from="1707937964821" duration="666000" />
+      <workItem from="1707951038660" duration="545000" />
+      <workItem from="1707952043392" duration="3800000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project and add file Project.html and Style.css">
       <option name="closed" value="true" />
@@ -121,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707924995248</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add changes to Style.css">
+      <option name="closed" value="true" />
+      <created>1707925369670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925369670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
