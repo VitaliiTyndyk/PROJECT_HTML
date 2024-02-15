@@ -60,7 +60,7 @@ body{
     flex-direction: column;
 }
 .header-1{
-    margin: 45px 180px 0 120px;
+    margin: 45px 120px 0 120px;
     display: flex;
     justify-content: space-between;
 }
