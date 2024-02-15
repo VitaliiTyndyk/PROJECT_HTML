@@ -60,6 +60,7 @@ body{
     flex-direction: column;
 }
 .header-1{
+    width: 83.3%;
     margin: 45px 120px 0 120px;
     display: flex;
     justify-content: space-between;
@@ -81,7 +82,7 @@ body{
     width: 5%;
 }
 .center-header-1{
-    width: 28%;
+    width: 33%;
     display: flex;
     justify-content: space-between;
     align-items: center;
